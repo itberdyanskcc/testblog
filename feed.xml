@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Test</title>
+    <link href="https://itberdyanskcc.github.io/testblog/feed.xml" rel="self" />
+    <link href="https://itberdyanskcc.github.io/testblog" />
+    <updated>2019-08-26T16:43:08+03:00</updated>
+    <author>
+        <name>vptsar</name>
+    </author>
+    <id>https://itberdyanskcc.github.io/testblog</id>
+
+    <entry>
+        <title>Test post</title>
+        <author>
+            <name>vptsar</name>
+        </author>
+        <link href="https://itberdyanskcc.github.io/testblog/test-post.html"/>
+        <id>https://itberdyanskcc.github.io/testblog/test-post.html</id>
+
+        <updated>2019-08-26T13:14:37+03:00</updated>
+            <summary>
+                <![CDATA[
+                    and test post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                and test post
+            ]]>
+        </content>
+    </entry>
+</feed>

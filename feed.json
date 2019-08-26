@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Test",
+    "description": "",
+    "home_page_url": "https://itberdyanskcc.github.io/testblog",
+    "feed_url": "https://itberdyanskcc.github.io/testblog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "vptsar"
+    },
+    "items": [
+        {
+            "id": "https://itberdyanskcc.github.io/testblog/test-post.html",
+            "url": "https://itberdyanskcc.github.io/testblog/test-post.html",
+            "title": "Test post",
+            "summary": "and test post",
+            "content_html": "and test post",
+            "author": {
+                "name": "vptsar"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-26T13:14:37+03:00",
+            "date_modified": "2019-08-26T13:14:37+03:00"
+        }
+    ]
+}
